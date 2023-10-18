@@ -1,0 +1,6 @@
+{
+    "Lua.diagnostics.disable": [
+        "empty-block",
+        "unused-local"
+    ]
+}
